@@ -9,10 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "ag-charts-enterprise": "^11.0.4",
     "ag-grid-community": "^33.0.4",
     "ag-grid-enterprise": "^33.0.4",
     "ag-grid-react": "^33.0.4",
     "next": "15.1.6",
+    "pdfmake": "^0.2.18",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
